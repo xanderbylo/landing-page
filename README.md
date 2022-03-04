@@ -6,7 +6,7 @@ This is a landing page I created as part of [The Odin Project](https://www.theod
 
 ## :computer: Live link
 
-[Recipes](https://xanderbylo.github.io/landing-page/)
+[Landing Page](https://xanderbylo.github.io/landing-page/)
 
 ## :floppy_disk: Technologies
 
