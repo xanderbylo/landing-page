@@ -1,5 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: #1F2937;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .logo {
-    
+    text-decoration: none;
     font-size: 24px;
-    color: F9FAF8;
+    color: #F9FAF8;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 24px;
+}
+
+li {
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.hero-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-text button {
+    background: #3882F6;
 }
