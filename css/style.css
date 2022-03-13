@@ -72,6 +72,7 @@ h2 {
 
 .quote {
     background: #E5E7EB;
+    padding: 120px 240px;
 }
 
 .quote p {
@@ -79,6 +80,14 @@ h2 {
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
+    margin: 0;
+}
+
+p.credit {
+    font-size: 24px;
+    font-weight: 800;
+    text-align: right;
+    margin-top: 18px;
 }
 
 .cta {
