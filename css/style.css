@@ -18,6 +18,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 160px;
 }
 
 .logo {
@@ -45,6 +46,12 @@ h1 {
     color: #F9FAF8;
 }
 
+.hero {
+    margin: 0 160px;
+    display: flex;
+    justify-content: space-between;
+}
+
 .hero-text p {
     font-size: 18px;
     color: #E5E7EB;
@@ -61,6 +68,7 @@ h1 {
 }
 
 h2 {
+    text-align: center;
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
@@ -68,6 +76,19 @@ h2 {
 
 .cards {
     display: flex;
+    justify-content: space-between;
+    margin: 0 160px;
+}
+
+.feature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature p {
+    text-align: center;
 }
 
 .quote {
