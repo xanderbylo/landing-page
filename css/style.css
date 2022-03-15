@@ -18,7 +18,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 160px;
+    margin: 18px 160px;
 }
 
 .logo {
@@ -44,6 +44,7 @@ h1 {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+    margin: 0;
 }
 
 .hero {
@@ -55,6 +56,8 @@ h1 {
 .hero-text p {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0;
+    margin-bottom: 12px;
 }
 
 .hero-text button {
@@ -78,6 +81,7 @@ h2 {
     display: flex;
     justify-content: space-between;
     margin: 0 160px;
+    gap: 24px;
 }
 
 .feature {
