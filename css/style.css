@@ -79,9 +79,9 @@ h2 {
 
 .cards {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin: 0 160px;
-    gap: 24px;
+    gap: 48px;
 }
 
 .feature {
@@ -91,8 +91,18 @@ h2 {
     justify-content: center;
 }
 
+.box {
+    border: #3780f6;
+    border-style: solid;
+    border-width: 4px;
+    width: 150px;
+    height: 150px;
+    border-radius: 12px;
+}
+
 .feature p {
     text-align: center;
+    max-width: 150px;
 }
 
 .quote {
@@ -160,6 +170,8 @@ footer {
     align-items: center;
 }
 
-footer p {
+footer a {
     margin: 0;
+    text-decoration: none;
+    color: #E5E7EB;
 }
