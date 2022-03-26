@@ -21,5 +21,3 @@ This is a landing page I created as part of [The Odin Project](https://www.theod
 
 * How to layout elements on a webpage using flexbox
 * How to google coding problems
-
-## :page_facing_up: Credits
